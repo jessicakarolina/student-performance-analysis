@@ -64,11 +64,5 @@ Usei estatística como uma ferramenta para encontrar padrões reais no comportam
 2. Abra no Google Colab (gratuito) ou Jupyter Notebook
 3. O código está pronto para executar
 
-##  Reflexões 
 
-Esta análise me mostrou que o sucesso nos estudos de tecnologia vem mais de **autogestão** do que de fatores externos. Não se trata de ser um gênio ou ter vantagens familiares, mas de:
-
-1. **Priorizar** o estudo diário
-2. **Cuidar** da saúde mental e física
-3. **Equilibrar** estudo e lazer, não eliminar um pelo outro
 
